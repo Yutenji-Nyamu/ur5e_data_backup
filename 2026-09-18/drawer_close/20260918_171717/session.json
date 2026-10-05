@@ -1,0 +1,183 @@
+{
+  "schema_version": 3,
+  "run_id": "20260918_171717",
+  "task": "drawer_close",
+  "note": "diff place",
+  "started_at": "2026-09-18T17:17:21.276731+08:00",
+  "finished_at": "2026-09-18T17:17:36.819978+08:00",
+  "duration_s": 15.542,
+  "recording_status": "completed",
+  "stop_reason": "user_quit",
+  "outcome": "success",
+  "reviews": [
+    {
+      "reviewed_at": "2026-09-18T17:17:38.719567+08:00",
+      "result": "success",
+      "note": null
+    }
+  ],
+  "code_commit": "097922c90bcbfeb1a70c2ecaedbeb16b3fe49235",
+  "robot": {
+    "script_port": 30001,
+    "rtde_port": 30004,
+    "rtde_frequency_hz": 10.0,
+    "socket_timeout_s": 10.0,
+    "home_tcp_pose": [
+      -0.4479512414,
+      -0.4779532359,
+      0.3397913564,
+      1.1351054288,
+      2.8938840645,
+      -0.0267875432
+    ]
+  },
+  "gripper": {
+    "baudrate": 9600,
+    "timeout_s": 1.0
+  },
+  "cameras": {
+    "width": 640,
+    "height": 480,
+    "fps": 30,
+    "save_hz": 10.0,
+    "warmup_frames": 60
+  },
+  "state_recording": {
+    "representations": [
+      "tcp",
+      "joint"
+    ],
+    "rtde_fields": [
+      "timestamp",
+      "actual_TCP_pose",
+      "actual_q",
+      "actual_qd",
+      "tcp_offset"
+    ],
+    "csv_columns": [
+      "controller_time_s",
+      "tcp_x",
+      "tcp_y",
+      "tcp_z",
+      "tcp_rx",
+      "tcp_ry",
+      "tcp_rz",
+      "gripper_state",
+      "gripper_event_counter",
+      "actual_q_0",
+      "actual_q_1",
+      "actual_q_2",
+      "actual_q_3",
+      "actual_q_4",
+      "actual_q_5",
+      "actual_qd_0",
+      "actual_qd_1",
+      "actual_qd_2",
+      "actual_qd_3",
+      "actual_qd_4",
+      "actual_qd_5",
+      "host_receive_time_s"
+    ],
+    "joint_source": "actual_q",
+    "joint_velocity_source": "actual_qd",
+    "tcp_source": "actual_TCP_pose",
+    "joint_order": [
+      "base",
+      "shoulder",
+      "elbow",
+      "wrist_1",
+      "wrist_2",
+      "wrist_3"
+    ],
+    "joint_position_unit": "rad",
+    "joint_velocity_unit": "rad/s",
+    "tcp_pose_units": [
+      "m",
+      "m",
+      "m",
+      "rad",
+      "rad",
+      "rad"
+    ],
+    "tcp_pose_frame": "robot_base",
+    "tcp_orientation": "rotation_vector",
+    "sample_relation": "same_rtde_packet",
+    "host_receive_time_clock": "unix_seconds_not_camera_exposure",
+    "gripper_state_semantics": "commanded_open_0_closed_1_not_measured_width",
+    "tcp_offset_source": "tcp_offset_flange_to_tcp"
+  },
+  "initial_robot_state": {
+    "controller_time_s": 3140.172,
+    "tcp_pose": [
+      -0.4479318577820279,
+      -0.477972307700869,
+      0.33976311242033774,
+      1.1350354162473613,
+      2.89388385093411,
+      -0.026701340763063706
+    ],
+    "actual_q": [
+      0.6091508865356445,
+      -1.1708072286895295,
+      1.4655221144305628,
+      -1.8608962498106898,
+      -1.5287497679339808,
+      -0.21472388902773076
+    ],
+    "actual_qd": [
+      0.0,
+      0.0,
+      -0.0,
+      0.0,
+      -0.0,
+      0.0
+    ],
+    "tcp_offset": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "host_receive_time_s": 1789723041.0660572
+  },
+  "collection": {
+    "enable_freedrive_on_start": true,
+    "initial_gripper_state": "open",
+    "preview": false,
+    "save_video": false
+  },
+  "paths": {
+    "rtde": "action.csv",
+    "gripper_events": "gripper_events.csv",
+    "sync": "sync.csv",
+    "camera": "images",
+    "head_frames": "images/head",
+    "wrist_frames": "images/wrist"
+  },
+  "counts": {
+    "rtde_samples": 144,
+    "gripper_events": 1,
+    "frame_pairs": 143
+  },
+  "quality": {
+    "last_open_controller_time_s": null,
+    "last_frame_controller_time_s": 3154.872,
+    "last_open_to_last_frame_s": null,
+    "recommended_release_tail_s": 1.0,
+    "release_tail_complete": null
+  },
+  "backup_export": {
+    "format_version": 1,
+    "path_base": "directory containing this session.json",
+    "redacted_fields": [
+      "robot.host",
+      "gripper.port",
+      "cameras.head_serial",
+      "cameras.wrist_serial",
+      "collection.data_root"
+    ],
+    "source_data_unchanged": true
+  }
+}

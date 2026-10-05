@@ -1,0 +1,174 @@
+{
+  "repository": "Yutenji-Nyamu/ur5e_data_backup",
+  "release_tag": "snapshot-2026-10-05",
+  "assets": [
+    {
+      "date": "2026-09-08",
+      "name": "ur5e-success-2026-09-08-part01.tar",
+      "bytes": 1437409280,
+      "run_ids": [
+        "20260908_153254",
+        "20260908_153339",
+        "20260908_153413",
+        "20260908_153445",
+        "20260908_153525",
+        "20260908_154946",
+        "20260908_155232",
+        "20260908_155340"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-08-part01.tar"
+    },
+    {
+      "date": "2026-09-08",
+      "name": "ur5e-success-2026-09-08-part02.tar",
+      "bytes": 1259294720,
+      "run_ids": [
+        "20260908_155733",
+        "20260908_155948",
+        "20260908_160312",
+        "20260908_161211",
+        "20260908_161728"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-08-part02.tar"
+    },
+    {
+      "date": "2026-09-08",
+      "name": "ur5e-success-2026-09-08-part03.tar",
+      "bytes": 534999040,
+      "run_ids": [
+        "20260908_162344",
+        "20260908_162556",
+        "20260908_162746"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-08-part03.tar"
+    },
+    {
+      "date": "2026-09-09",
+      "name": "ur5e-success-2026-09-09-part01.tar",
+      "bytes": 1309460480,
+      "run_ids": [
+        "20260909_155914",
+        "20260909_160334",
+        "20260909_160811",
+        "20260909_161415",
+        "20260909_161854",
+        "20260909_162124",
+        "20260909_162533",
+        "20260909_163134"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-09-part01.tar"
+    },
+    {
+      "date": "2026-09-09",
+      "name": "ur5e-success-2026-09-09-part02.tar",
+      "bytes": 706590720,
+      "run_ids": [
+        "20260909_163303",
+        "20260909_163546",
+        "20260909_163805",
+        "20260909_163934"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-09-part02.tar"
+    },
+    {
+      "date": "2026-09-10",
+      "name": "ur5e-success-2026-09-10-part01.tar",
+      "bytes": 1177292800,
+      "run_ids": [
+        "20260910_161026",
+        "20260910_162615",
+        "20260910_163251"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-10-part01.tar"
+    },
+    {
+      "date": "2026-09-11",
+      "name": "ur5e-success-2026-09-11-part01.tar",
+      "bytes": 1298739200,
+      "run_ids": [
+        "20260911_154322",
+        "20260911_154430",
+        "20260911_154520",
+        "20260911_154720",
+        "20260911_154813",
+        "20260911_160440"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-11-part01.tar"
+    },
+    {
+      "date": "2026-09-11",
+      "name": "ur5e-success-2026-09-11-part02.tar",
+      "bytes": 1162639360,
+      "run_ids": [
+        "20260911_160550",
+        "20260911_160856",
+        "20260911_170047",
+        "20260911_170120",
+        "20260911_170221",
+        "20260911_170321",
+        "20260911_170406"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-11-part02.tar"
+    },
+    {
+      "date": "2026-09-12",
+      "name": "ur5e-success-2026-09-12-part01.tar",
+      "bytes": 995696640,
+      "run_ids": [
+        "20260912_144757",
+        "20260912_144852",
+        "20260912_144941",
+        "20260912_145043",
+        "20260912_145151"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-12-part01.tar"
+    },
+    {
+      "date": "2026-09-18",
+      "name": "ur5e-success-2026-09-18-part01.tar",
+      "bytes": 1203957760,
+      "run_ids": [
+        "20260918_162844",
+        "20260918_163228",
+        "20260918_163507",
+        "20260918_163721",
+        "20260918_164053",
+        "20260918_164445"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-18-part01.tar"
+    },
+    {
+      "date": "2026-09-18",
+      "name": "ur5e-success-2026-09-18-part02.tar",
+      "bytes": 464465920,
+      "run_ids": [
+        "20260918_171233",
+        "20260918_171717"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-09-18-part02.tar"
+    },
+    {
+      "date": "2026-10-05",
+      "name": "ur5e-success-2026-10-05-part01.tar",
+      "bytes": 1011240960,
+      "run_ids": [
+        "20261005_154055",
+        "20261005_154328",
+        "20261005_154446",
+        "20261005_160135",
+        "20261005_160805",
+        "20261005_161540"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-10-05-part01.tar"
+    },
+    {
+      "date": "2026-10-05",
+      "name": "ur5e-success-2026-10-05-part02.tar",
+      "bytes": 168704000,
+      "run_ids": [
+        "20261005_162813"
+      ],
+      "url": "https://github.com/Yutenji-Nyamu/ur5e_data_backup/releases/download/snapshot-2026-10-05/ur5e-success-2026-10-05-part02.tar"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-09-12,plug_charger,20260912_144757,success,3,True,25.83,253,254,189228887,510,2026-09-12/plug_charger/20260912_144757,ur5e-success-2026-09-12-part01.tar,0.1
+2026-09-12,plug_charger,20260912_144852,success,3,True,23.774,225,226,166114448,454,2026-09-12/plug_charger/20260912_144852,ur5e-success-2026-09-12-part01.tar,0.1
+2026-09-12,plug_charger,20260912_144941,success,3,True,31.6,304,305,223692053,612,2026-09-12/plug_charger/20260912_144941,ur5e-success-2026-09-12-part01.tar,0.1
+2026-09-12,plug_charger,20260912_145043,success,3,True,26.278,253,254,187426225,510,2026-09-12/plug_charger/20260912_145043,ur5e-success-2026-09-12-part01.tar,0.1
+2026-09-12,plug_charger,20260912_145151,success,3,True,31.485,307,308,227158545,618,2026-09-12/plug_charger/20260912_145151,ur5e-success-2026-09-12-part01.tar,0.1

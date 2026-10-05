@@ -1,0 +1,8 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-10-05,plug_charger,20261005_154055,success,3,True,25.395,250,251,221851216,504,2026-10-05/plug_charger/20261005_154055,ur5e-success-2026-10-05-part01.tar,0.1
+2026-10-05,plug_charger,20261005_154328,success,3,True,20.791,200,201,174666961,404,2026-10-05/plug_charger/20261005_154328,ur5e-success-2026-10-05-part01.tar,0.1
+2026-10-05,plug_charger,20261005_154446,success,3,True,15.573,147,148,126534582,298,2026-10-05/plug_charger/20261005_154446,ur5e-success-2026-10-05-part01.tar,0.1
+2026-10-05,plug_charger,20261005_160135,success,3,True,22.701,219,220,187088458,442,2026-10-05/plug_charger/20261005_160135,ur5e-success-2026-10-05-part01.tar,0.1
+2026-10-05,plug_charger,20261005_160805,success,3,True,17.442,166,167,139441437,336,2026-10-05/plug_charger/20261005_160805,ur5e-success-2026-10-05-part01.tar,0.1
+2026-10-05,plug_charger,20261005_161540,success,3,True,18.619,179,180,159853156,362,2026-10-05/plug_charger/20261005_161540,ur5e-success-2026-10-05-part01.tar,0.1
+2026-10-05,plug_charger,20261005_162813,success,3,True,22.517,217,218,168363480,438,2026-10-05/plug_charger/20261005_162813,ur5e-success-2026-10-05-part02.tar,0.1

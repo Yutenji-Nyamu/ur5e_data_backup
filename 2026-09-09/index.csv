@@ -1,0 +1,13 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-09-09,place_bread_basket,20260909_155914,success,3,True,18.394,174,175,152059350,352,2026-09-09/place_bread_basket/20260909_155914,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_bread_basket,20260909_160334,success,3,True,18.501,179,180,154050972,362,2026-09-09/place_bread_basket/20260909_160334,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_bread_basket,20260909_160811,success,3,True,21.175,202,203,174097189,408,2026-09-09/place_bread_basket/20260909_160811,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_bread_skillet,20260909_161415,success,3,True,17.608,168,169,153412311,340,2026-09-09/place_bread_skillet/20260909_161415,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_bread_skillet,20260909_161854,success,3,True,16.85,157,158,143225460,318,2026-09-09/place_bread_skillet/20260909_161854,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_bread_skillet,20260909_162124,success,3,True,18.192,176,177,162245436,356,2026-09-09/place_bread_skillet/20260909_162124,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_empty_cup,20260909_162533,success,3,True,24.489,239,240,210765621,482,2026-09-09/place_empty_cup/20260909_162533,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_empty_cup,20260909_163134,success,3,True,18.53,177,178,157317532,358,2026-09-09/place_empty_cup/20260909_163134,ur5e-success-2026-09-09-part01.tar,0.1
+2026-09-09,place_empty_cup,20260909_163303,success,3,True,19.342,189,190,168420225,382,2026-09-09/place_empty_cup/20260909_163303,ur5e-success-2026-09-09-part02.tar,0.1
+2026-09-09,stack_blocks_two,20260909_163546,success,3,True,21.726,214,215,188498586,432,2026-09-09/stack_blocks_two/20260909_163546,ur5e-success-2026-09-09-part02.tar,0.1
+2026-09-09,stack_blocks_two,20260909_163805,success,3,True,18.456,176,177,153511416,356,2026-09-09/stack_blocks_two/20260909_163805,ur5e-success-2026-09-09-part02.tar,0.1
+2026-09-09,stack_blocks_two,20260909_163934,success,3,True,22.454,222,223,194911710,448,2026-09-09/stack_blocks_two/20260909_163934,ur5e-success-2026-09-09-part02.tar,0.1

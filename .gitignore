@@ -1,0 +1,4 @@
+downloads/
+**/images/
+*.tar
+__pycache__/

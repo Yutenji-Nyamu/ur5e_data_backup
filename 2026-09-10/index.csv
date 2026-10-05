@@ -1,0 +1,4 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-09-10,sort_block,20260910_161026,success,3,True,44.393,433,434,387885011,870,2026-09-10/sort_block/20260910_161026,ur5e-success-2026-09-10-part01.tar,0.1
+2026-09-10,sort_block,20260910_162615,success,3,True,43.237,423,424,375430020,850,2026-09-10/sort_block/20260910_162615,ur5e-success-2026-09-10-part01.tar,0.2
+2026-09-10,sort_block,20260910_163251,success,3,True,46.815,459,460,411947449,922,2026-09-10/sort_block/20260910_163251,ur5e-success-2026-09-10-part01.tar,0.1

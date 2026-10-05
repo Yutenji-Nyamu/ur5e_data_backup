@@ -1,0 +1,16 @@
+{
+  "snapshot_created_at": "2026-10-05T16:48:42.334509+08:00",
+  "last_selected_run_id": "20261005_162813",
+  "selection": "outcome=success, completed, schema v3 with measured actual_q_0..5",
+  "sessions": 64,
+  "dates": 7,
+  "tasks": 12,
+  "source_bytes": 12707726504,
+  "source_files": 29666,
+  "frame_pairs": 14705,
+  "duration_s": 1522.376,
+  "archive_count": 13,
+  "archive_bytes": 12730490880,
+  "excluded_tcp_only_sessions": 23,
+  "verification": "basic file/count and upload-size checks; no per-file hash requirement"
+}

@@ -1,0 +1,9 @@
+date,task,run_id,outcome,schema_version,has_measured_joints,duration_s,frame_pairs,rtde_samples,source_bytes,source_files,path,asset,max_rtde_gap_s
+2026-09-18,plug_charger,20260918_162844,success,3,True,24.85,245,246,218134568,494,2026-09-18/plug_charger/20260918_162844,ur5e-success-2026-09-18-part01.tar,0.1
+2026-09-18,plug_charger,20260918_163228,success,3,True,18.595,174,175,154628398,352,2026-09-18/plug_charger/20260918_163228,ur5e-success-2026-09-18-part01.tar,0.1
+2026-09-18,plug_charger,20260918_163507,success,3,True,23.553,225,226,199460938,454,2026-09-18/plug_charger/20260918_163507,ur5e-success-2026-09-18-part01.tar,0.1
+2026-09-18,plug_charger,20260918_163721,success,3,True,20.798,196,197,172374473,396,2026-09-18/plug_charger/20260918_163721,ur5e-success-2026-09-18-part01.tar,0.1
+2026-09-18,pour_beans,20260918_164053,success,3,True,27.814,274,275,236263831,552,2026-09-18/pour_beans/20260918_164053,ur5e-success-2026-09-18-part01.tar,0.1
+2026-09-18,pour_beans,20260918_164445,success,3,True,27.439,263,264,220961827,530,2026-09-18/pour_beans/20260918_164445,ur5e-success-2026-09-18-part01.tar,0.1
+2026-09-18,sort_block,20260918_171233,success,3,True,44.007,429,430,347205876,862,2026-09-18/sort_block/20260918_171233,ur5e-success-2026-09-18-part02.tar,0.4
+2026-09-18,drawer_close,20260918_171717,success,3,True,15.542,143,144,116378609,290,2026-09-18/drawer_close/20260918_171717,ur5e-success-2026-09-18-part02.tar,0.3
